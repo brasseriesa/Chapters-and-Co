@@ -9,6 +9,6 @@ The Chapters&Co Project is a web application that aims to provide a platform for
 # Contributing
 Contributions to the Chapters&Co Project are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request to this repository. Make sure to follow the project's coding style and guidelines.
 # License
-The Book Review and Seller Project is open-source and released under the MIT License. You can freely use, modify, and distribute the codebase in accordance with the terms and conditions of the license.
+The Chapters&Co Project is open-source and released under the MIT License. You can freely use, modify, and distribute the codebase in accordance with the terms and conditions of the license.
 # Contact
-If you have any questions or inquiries about the Book Review and Seller Project, please contact us at kledjalloshi10@gmail.com
+If you have any questions or inquiries about the Chapters&Co Project, please contact us at kledjalloshi10@gmail.com
